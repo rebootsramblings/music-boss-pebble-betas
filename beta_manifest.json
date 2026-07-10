@@ -16,11 +16,11 @@
       "notes": ""
     },
     "browser": {
-      "version_code": 0,
-      "version_name": "",
+      "version_code": 19,
+      "version_name": "1.18-beta",
       "min_phone_version_code": 0,
-      "pbw_url": "",
-      "notes": ""
+      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/browser-1.18/music-boss-media-browser.pbw",
+      "notes": "Touchscreen Media Browser for Pebble Time 2 and Round 2 - browse and play your library from your wrist with tap/scroll navigation, two-line rows, and search."
     }
   }
 }
