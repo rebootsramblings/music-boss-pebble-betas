@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "apps": {
+    "classic": {
+      "version_code": 177,
+      "version_name": "6.95-beta",
+      "min_phone_version_code": 0,
+      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.95/music-boss-classic.pbw",
+      "notes": "Modern UI touch preview for Pebble Time 2 & Round 2. New single-screen now-playing with 3 presets (Retro+, Modern-Classic, Modern-Time), full-screen album art with letterbox modes, and tap/swipe controls. Test build — expect rough edges. Your feedback shapes what ships."
+    },
+    "time": {
+      "version_code": 0,
+      "version_name": "",
+      "min_phone_version_code": 0,
+      "pbw_url": "",
+      "notes": ""
+    },
+    "browser": {
+      "version_code": 0,
+      "version_name": "",
+      "min_phone_version_code": 0,
+      "pbw_url": "",
+      "notes": ""
+    }
+  }
+}
