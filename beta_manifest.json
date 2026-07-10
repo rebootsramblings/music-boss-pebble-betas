@@ -6,7 +6,7 @@
       "version_name": "6.98-beta",
       "min_phone_version_code": 0,
       "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.98/music-boss-classic.pbw",
-      "notes": "Modern UI for touchscreen Pebbles: tap/swipe/flick controls, full-screen album art, and 3 live layouts (Retro+, Modern Classic, Modern Time). Double-press Up/Down to seek, volume ring, deep settings. This build: settings now persist across restarts, reliable double-press seek with contained overlays, crisper seek haptic, bottom-text elapsed/duration, battery % alignment. Test build - your feedback shapes what ships."
+      "notes": "A full touchscreen redesign of Music Boss Classic for Pebble Time 2 and Round 2. Tap, swipe, and flick to control playback over full-screen album art. Three live layouts - Retro+, Modern Classic, and Modern Time - with deep customization from the on-watch menus: text position, multiple fonts and sizes, colours, drop shadow, album-art modes (full / letterbox), scrim, and one-tap presets. Double-press Up/Down to seek; volume ring overlay. Test build - your feedback shapes what ships."
     },
     "time": {
       "version_code": 0,
