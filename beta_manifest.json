@@ -2,11 +2,11 @@
   "schema": 1,
   "apps": {
     "classic": {
-      "version_code": 178,
-      "version_name": "6.96-beta",
+      "version_code": 180,
+      "version_name": "6.98-beta",
       "min_phone_version_code": 0,
-      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.96/music-boss-classic.pbw",
-      "notes": "Modern UI menu polish + seek fix. Reset Defaults / OG Art now flash 'Applied' when tapped; OG Art Screen moved under Reset Defaults; Retro+ idle labels clarified; and a new Seek Mode toggle in General settings so 2x Up/Down seek can be re-enabled. Test build — your feedback shapes what ships."
+      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.98/music-boss-classic.pbw",
+      "notes": "Modern UI for touchscreen Pebbles: tap/swipe/flick controls, full-screen album art, and 3 live layouts (Retro+, Modern Classic, Modern Time). Double-press Up/Down to seek, volume ring, deep settings. This build: settings now persist across restarts, reliable double-press seek with contained overlays, crisper seek haptic, bottom-text elapsed/duration, battery % alignment. Test build - your feedback shapes what ships."
     },
     "time": {
       "version_code": 0,
