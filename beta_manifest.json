@@ -2,11 +2,11 @@
   "schema": 1,
   "apps": {
     "classic": {
-      "version_code": 180,
-      "version_name": "6.98-beta",
+      "version_code": 181,
+      "version_name": "6.99-beta",
       "min_phone_version_code": 0,
-      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.98/music-boss-classic.pbw",
-      "notes": "A full touchscreen redesign of Music Boss Classic for Pebble Time 2 and Round 2. Tap, swipe, and flick to control playback over full-screen album art. Three live layouts - Retro+, Modern Classic, and Modern Time - with deep customization from the on-watch menus: text position, multiple fonts and sizes, colours, drop shadow, album-art modes (full / letterbox), scrim, and one-tap presets. Double-press Up/Down to seek; volume ring overlay. Test build - your feedback shapes what ships."
+      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.99/music-boss-classic.pbw",
+      "notes": "A full touchscreen redesign of Music Boss Classic for Pebble Time 2 and Round 2. Tap, swipe, and flick to control playback over full-screen album art. Three live layouts - Retro+, Modern Classic, and Modern Time - with deep customization from the on-watch menus: text position, multiple fonts and sizes, colours, drop shadow, album-art modes (full / letterbox), scrim, and one-tap presets. Double-press Up/Down to seek; volume ring overlay. This build fixes the progress bar and progress text disappearing when the timed elements hide. Test build - your feedback shapes what ships."
     },
     "time": {
       "version_code": 0,
