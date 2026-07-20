@@ -2,11 +2,11 @@
   "schema": 1,
   "apps": {
     "classic": {
-      "version_code": 204,
-      "version_name": "6.122-beta",
+      "version_code": 213,
+      "version_name": "6.131-beta",
       "min_phone_version_code": 0,
-      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.122/music-boss-classic.pbw",
-      "notes": "A full touchscreen redesign of Music Boss Classic for Pebble Time 2 and Round 2. Tap, swipe, and flick to control playback over full-screen album art. Three live layouts - Retro+, Modern Classic, and Modern Time - with deep customization from the on-watch menus: text position, multiple fonts and sizes, colours, drop shadow, album-art modes (full / letterbox), scrim, and one-tap presets. Double-press Up/Down to seek; volume ring overlay. Test build - your feedback shapes what ships.\n\nWHAT'S NEW IN 6.122\n\nVolume:\n- Fixed hold-to-adjust volume in the Modern layouts: with long-press set to volume, hold Up or Down and the volume now steps smoothly and stops the instant you let go. Previously it could keep changing on its own once the volume ring appeared - or run in both directions at once.\n- The volume ring now stays on screen the whole time you hold, and clears a few seconds after your last change."
+      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.131/music-boss-classic.pbw",
+      "notes": "A full touchscreen redesign of Music Boss Classic for Pebble Time 2 and Round 2. Tap, swipe, and flick to control playback over full-screen album art. Three live layouts - Retro+, Modern Classic, and Modern Time - with deep customization from the on-watch menus: text position, multiple fonts and sizes, colours, drop shadow, album-art modes (full / letterbox), scrim, and one-tap presets. Double-press Up/Down to seek; volume ring overlay. Test build - your feedback shapes what ships.\n\nWHAT'S NEW IN 6.131\n\nRetro+:\n- The General > Text Colour setting (Auto / White / Black) now themes the WHOLE Retro+ screen - the text, progress bar, the volume / headphone + note icons, and the clock all follow it together.\n\nProgress bar:\n- Clearer fill: the unfilled part now uses a contrasting grey so played-vs-remaining reads distinctly over both light and dark album art.\n\nText scrolling:\n- The Scroll Text action now reveals your Timed text AND scrolls it in one press - handy for long titles with a long timed timeout.\n\nUpgrading:\n- Coming from an older non-touch build, your Classic / Classic Idle Art / Art Only screen choice now carries over to the matching Modern layout automatically."
     },
     "time": {
       "version_code": 0,
