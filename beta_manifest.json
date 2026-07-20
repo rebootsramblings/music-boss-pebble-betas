@@ -2,11 +2,11 @@
   "schema": 1,
   "apps": {
     "classic": {
-      "version_code": 201,
-      "version_name": "6.119-beta",
+      "version_code": 204,
+      "version_name": "6.122-beta",
       "min_phone_version_code": 0,
-      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.119/music-boss-classic.pbw",
-      "notes": "A full touchscreen redesign of Music Boss Classic for Pebble Time 2 and Round 2. Tap, swipe, and flick to control playback over full-screen album art. Three live layouts - Retro+, Modern Classic, and Modern Time - with deep customization from the on-watch menus: text position, multiple fonts and sizes, colours, drop shadow, album-art modes (full / letterbox), scrim, and one-tap presets. Double-press Up/Down to seek; volume ring overlay. Test build - your feedback shapes what ships.\n\nWHAT'S NEW IN 6.119\n\nDisplay & text:\n- Retro+ and Modern Classic now have their own independent element settings - style each layout's track / artist / album separately.\n- Long titles handled properly: a new track scrolls its title once, then settles into a tidy 2-line display when it fits the font.\n- Fixed text clipping - letters with tails (g, j, q, p, y) are no longer cut off.\n- Fixed spacing so a 2-line album no longer touches the app name; the album shortens to one line when space is tight.\n\nScrolling:\n- Auto-scroll is more reliable - long titles scroll, and a wrist flick, play/pause, closing the overlay, or the Scroll Text action all restart the scroll.\n\nBackgrounds & fixes:\n- Retro+ background (Art Colour / Black / White) now sticks - it no longer reverts to the album-art colour on track changes.\n- The font picker now shows the real name for the app-name font (previously labelled just \"Font\")."
+      "pbw_url": "https://github.com/rebootsramblings/music-boss-pebble-betas/releases/download/classic-6.122/music-boss-classic.pbw",
+      "notes": "A full touchscreen redesign of Music Boss Classic for Pebble Time 2 and Round 2. Tap, swipe, and flick to control playback over full-screen album art. Three live layouts - Retro+, Modern Classic, and Modern Time - with deep customization from the on-watch menus: text position, multiple fonts and sizes, colours, drop shadow, album-art modes (full / letterbox), scrim, and one-tap presets. Double-press Up/Down to seek; volume ring overlay. Test build - your feedback shapes what ships.\n\nWHAT'S NEW IN 6.122\n\nVolume:\n- Fixed hold-to-adjust volume in the Modern layouts: with long-press set to volume, hold Up or Down and the volume now steps smoothly and stops the instant you let go. Previously it could keep changing on its own once the volume ring appeared - or run in both directions at once.\n- The volume ring now stays on screen the whole time you hold, and clears a few seconds after your last change."
     },
     "time": {
       "version_code": 0,
